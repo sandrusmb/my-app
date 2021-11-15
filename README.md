@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Webbgraphy
+
+[How to upload a local project to github](https://javadesde0.com/deploy-subida-de-una-aplicacion-de-angular-a-github-pages-de-forma-totalmente-gratuita/)
+[How to configure user and email in git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez)
+[Angular tour of heroes exercise explained on video](https://www.youtube.com/watch?v=Zca69OB2b0U&ab_channel=developer.school)
