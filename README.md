@@ -33,3 +33,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [How to configure user and email in git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez)
 
 [Angular tour of heroes exercise explained on video](https://www.youtube.com/watch?v=Zca69OB2b0U&ab_channel=developer.school)
+
+[What pipes are there?](https://codecraft.tv/courses/angular/pipes/built-in-pipes) --> currency, date, decimal, lowercase, uppercase, percent...
+
+[What is an Angular directive?](https://guidacode.com/2017/angularjs/directivas-de-angular-como-usarlas/) 
+
+[Directive types](https://medium.com/notasdeangular/directivas-en-angular-efb8a8cf78e0) --> ngModel, ngFor, ngClass, ngIf...
